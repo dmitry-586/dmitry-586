@@ -1,9 +1,8 @@
-<h1>
+<h1 align='center'>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=600&lines=Дмитрий+Куцевалов;Frontend+Developer;Next.js+•+React+•+TypeScript" alt="Typing SVG" />
 </h1>
 
 ## 🚀 Технологический стек
-
 ### **Frontend Development**
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,tailwind,sass,css,materialui" />
 
