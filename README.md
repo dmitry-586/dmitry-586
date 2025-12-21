@@ -13,25 +13,15 @@
 
 ## 🚀 Технологический стек
 
-<div align="center">
-
 ### **Frontend Development**
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,webpack" />
-
-### **Styling & UI**
-<img src="https://skillicons.dev/icons?i=tailwind,sass,css,materialui" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,sass,css,materialui" />
 
 ### **Backend & Databases**
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma" />
+<img src="https://skillicons.dev/icons?i=nest,nodejs,express,postgres,mongodb,prisma" />
 
 ### **DevOps & Tools**
 <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,linux,figma" />
 
-### **Infrastructure**
-<img src="https://skillicons.dev/icons?i=nginx,aws,cloudflare,redux,graphql" />
-
-</div>
-
-<p align="center">
+<p>
   <i>Создаю современные, производительные веб-приложения с фокусом на пользовательский опыт</i>
 </p>
