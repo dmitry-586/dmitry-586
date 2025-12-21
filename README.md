@@ -11,11 +11,12 @@
 ### **DevOps & Tools**
 <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,linux,figma,bun" />
 
-
-<div>
-  <a href="mailto:kutdmitry@gmail.com" style="text-decoration: none; color: #D14836; font-weight: bold;">📧 kutdmitry@gmail.com</a>
-  <a href="https://t.me/dm1try586" style="text-decoration: none; color: #2CA5E0; font-weight: bold;">✈️ @dm1try586</a>
-</div>
+<a href="mailto:kutdmitry@gmail.com">
+  <img src="https://img.shields.io/badge/kutdmitry@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://t.me/dm1try586">
+  <img src="https://img.shields.io/badge/@dm1try586-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
 
 <p>
   <i>Создаю современные, производительные веб-приложения с фокусом на пользовательский опыт</i>
