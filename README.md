@@ -11,9 +11,9 @@
 ### **DevOps & Tools**
 <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,linux,figma,bun" />
 
-<div align="center">
+<div>
 
-<h4>📍 Контакты</h4>
+<h4>Контакты</h4>
 
 [![Email](https://img.shields.io/badge/-kutdmitry@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kutdmitry@gmail.com)
 <br>
