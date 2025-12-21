@@ -14,10 +14,10 @@
 
 <div>
   <a href="mailto:kutdmitry@gmail.com">
-    <img src="https://img.shields.io/badge/kutdmitry@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/kutdmitry@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://t.me/dm1try586">
-    <img src="https://img.shields.io/badge/dm1try586-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/@dm1try586-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>
 
