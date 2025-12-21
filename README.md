@@ -11,16 +11,23 @@
 ### **DevOps & Tools**
 <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,linux,figma,bun" />
 
-<div>
+### **📋 Полный стек технологий**
 
+| Категория | Технологии |
+| :--- | :--- |
+| **Frontend** | JavaScript, TypeScript, Next.js, React, Vite, Tailwind CSS, Sass |
+| **Backend** | NestJS, Node.js, Express, PostgreSQL, MongoDB, Prisma |
+| **DevOps & Tools** | Docker, Git, GitHub, Vercel, Linux, Figma, Bun |
+| **Библиотеки** | TanStack Query, Zustand, Framer Motion, Zod, Axios, React Hook Form |
+
+<div>
 <h4>Контакты</h4>
 
 [![Email](https://img.shields.io/badge/-kutdmitry@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kutdmitry@gmail.com)
 <br>
 [![Telegram](https://img.shields.io/badge/-@dm1try586-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/dm1try586)
-
 </div>
 
-<p>
+<p align="center">
   <i>Создаю современные, производительные веб-приложения с фокусом на пользовательский опыт</i>
 </p>
