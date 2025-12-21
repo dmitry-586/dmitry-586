@@ -11,17 +11,13 @@
 ### **DevOps & Tools**
 <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,linux,figma,bun" />
 
-<div>
+<div align="center">
 
-#### 📬 **Свяжитесь со мной**
+<h4>📍 Контакты</h4>
 
-<a href="mailto:kutdmitry@gmail.com">
-  <img src="https://img.shields.io/badge/Email-kutdmitry%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-<br><br>
-<a href="https://t.me/dm1try586">
-  <img src="https://img.shields.io/badge/Telegram-%40dm1try586-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
-</a>
+[![Email](https://img.shields.io/badge/-kutdmitry@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kutdmitry@gmail.com)
+<br>
+[![Telegram](https://img.shields.io/badge/-@dm1try586-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/dm1try586)
 
 </div>
 
