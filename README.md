@@ -12,8 +12,12 @@
 <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,linux,figma,bun" />
 
 <p align="center">
-  <a href="mailto:kutdmitry@gmail.com">📧 Email</a> • 
-  <a href="https://t.me/dm1try586">💬 Telegram</a>
+  <a href="mailto:kutdmitry@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kutdmitry%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/dm1try586">
+    <img src="https://img.shields.io/badge/Telegram-%40dm1try586-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
+  </a>
 </p>
 
 <p>
