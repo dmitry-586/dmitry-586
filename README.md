@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=600&lines=Дмитрий+Куцевалов;Frontend+Developer;Next.js+•+React+•+TypeScript" alt="Typing SVG" />
 </h1>
 
