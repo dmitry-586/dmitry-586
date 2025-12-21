@@ -11,11 +11,7 @@
   </a>
 </p>
 
----
-
 ## 🛠️ Технологический стек
-
-<div align="center">
 
 ### **Frontend Development**
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite" />
@@ -29,17 +25,12 @@
 ### **Backend & Databases**
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" />
 
-### **DevOps & Other**
+### **DevOps & Deployment**
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,figma" />
-
-</div>
-
----
+<img src="https://img.shields.io/badge/Dokploy-000000?style=flat-square&logo=docker&logoColor=white" alt="Dokploy" />
 
 ## 🔥 Основные технологии
 
-<div align="center">
-  
 | Категория | Технологии |
 |-----------|------------|
 | **Языки** | TypeScript, JavaScript |
@@ -48,12 +39,9 @@
 | **Состояние** | TanStack Query, Zustand, Redux |
 | **API** | REST, GraphQL, Axios |
 | **Базы данных** | PostgreSQL, MongoDB, Prisma ORM |
-| **Инструменты** | Docker, Git, Framer Motion, Zod |
-| **Платформы** | Vercel, Linux |
-
-</div>
-
----
+| **DevOps** | Docker, Dokploy, Git, Linux |
+| **Деплой** | Vercel, Docker |
+| **Инструменты** | Framer Motion, Zod, React Hook Form |
 
 <p align="center">
   <i>✨ Создаю современные и производительные веб-приложения</i>
