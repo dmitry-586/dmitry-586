@@ -3,50 +3,58 @@
 </h1>
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:kutdmitry@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://t.me/your_username">
+  <a href="https://t.me/dm1try586">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://linkedin.com/in/your_username">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
 </p>
 
 ---
 
-## 🌟 Мой стек технологий
-
-### **Основной стек**
+## 🛠️ Технологический стек
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,redux" />
+
+### **Frontend Development**
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite" />
+
+### **Styling & UI**
+<img src="https://skillicons.dev/icons?i=tailwind,css,sass,materialui" />
+
+### **State Management & Tools**
+<img src="https://skillicons.dev/icons?i=redux,graphql,webpack,vite" />
+
+### **Backend & Databases**
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" />
+
+### **DevOps & Other**
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,figma" />
+
 </div>
-
-<p align="center">
-  <strong>TypeScript → React → Next.js → Tailwind CSS</strong>
-</p>
-
-### **Библиотеки & Инструменты**
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=graphql,postgres,prisma,docker,git" />
-</div>
-
-<p align="center">
-  <strong>TanStack Query • Zod • Framer Motion • Zustand • SCSS</strong>
-</p>
 
 ---
 
-## 🎯 Специализация
+## 🔥 Основные технологии
 
-```typescript
-const myStack = {
-  core: ['Next.js', 'React', 'TypeScript'],
-  styling: ['Tailwind CSS', 'SCSS', 'Framer Motion'],
-  state: ['TanStack Query', 'Zustand'],
-  backend: ['PostgreSQL', 'Prisma ORM', 'Docker'],
-  tools: ['Git', 'Linux', 'Axios', 'React Hook Form']
-};
+<div align="center">
+  
+| Категория | Технологии |
+|-----------|------------|
+| **Языки** | TypeScript, JavaScript |
+| **Фреймворки** | React, Next.js |
+| **Стилизация** | Tailwind CSS, SCSS, Material-UI |
+| **Состояние** | TanStack Query, Zustand, Redux |
+| **API** | REST, GraphQL, Axios |
+| **Базы данных** | PostgreSQL, MongoDB, Prisma ORM |
+| **Инструменты** | Docker, Git, Framer Motion, Zod |
+| **Платформы** | Vercel, Linux |
+
+</div>
+
+---
+
+<p align="center">
+  <i>✨ Создаю современные и производительные веб-приложения</i>
+</p>
