@@ -3,17 +3,13 @@
 </h1>
 
 ### **Frontend Development**
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,tailwind,sass,css,materialui" />
+<img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,vite,tailwind,sass" />
 
 ### **Backend & Databases**
 <img src="https://skillicons.dev/icons?i=nest,nodejs,express,postgres,mongodb,prisma" />
 
 ### **DevOps & Tools**
 <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,linux,figma,bun" />
-
-<a href="mailto:kutdmitry@gmail.com">
-  <img src="https://img.shields.io/badge/kutdmitry@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
 
 <a href="https://t.me/dm1try586">
   <img src="https://img.shields.io/badge/@dm1try586-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
