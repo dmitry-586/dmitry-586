@@ -12,9 +12,8 @@
 <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,linux,figma,bun" />
 
 <p align="center">
-  📧 <a href="mailto:kutdmitry@gmail.com"><strong>kutdmitry@gmail.com</strong></a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  💬 <a href="https://t.me/dm1try586"><strong>@dm1try586</strong></a>
+  <a href="mailto:kutdmitry@gmail.com">📧 Email</a> • 
+  <a href="https://t.me/dm1try586">💬 Telegram</a>
 </p>
 
 <p>
