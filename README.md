@@ -15,30 +15,20 @@
 
 <div align="center">
 
-### **Основной стек**
-<div>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,redux,graphql" />
-</div>
+### **Frontend Development**
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,webpack" />
 
-### **Backend & Базы данных**
-<div>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,docker" />
-</div>
+### **Styling & UI**
+<img src="https://skillicons.dev/icons?i=tailwind,sass,css,materialui" />
 
-### **Инструменты & DevOps**
-<div>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,linux,figma,vite,webpack" />
-</div>
+### **Backend & Databases**
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma" />
 
-### **Стилизация & UI**
-<div>
-  <img src="https://skillicons.dev/icons?i=sass,css,materialui" />
-</div>
+### **DevOps & Tools**
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,linux,figma" />
 
-### **Инфраструктура**
-<div>
-  <img src="https://skillicons.dev/icons?i=nginx,aws,cloudflare" />
-</div>
+### **Infrastructure**
+<img src="https://skillicons.dev/icons?i=nginx,aws,cloudflare,redux,graphql" />
 
 </div>
 
