@@ -17,7 +17,7 @@
 | :--- | :--- |
 | **Frontend** | JavaScript, TypeScript, Next.js, React, Vite, Tailwind CSS, Sass, PWA |
 | **Backend** | NestJS, Node.js, Express, PostgreSQL, MongoDB, Prisma |
-| **DevOps & Tools** | Docker, Git, GitHub, Vercel, Linux, Figma, Bun |
+| **DevOps & Tools** | Docker, Dokploy, Git, Vercel, Linux, Figma, Bun |
 | **Библиотеки** | TanStack Query, Zustand, Framer Motion, Zod, Axios, React Hook Form |
 
 <div>
