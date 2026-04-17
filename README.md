@@ -3,7 +3,7 @@
 </h1>
 
 ### **Frontend Development**
-<img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,vite,tailwind,sass" />
+<img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,vite,tailwind,sass/scss" />
 
 ### **Backend & Databases**
 <img src="https://skillicons.dev/icons?i=nest,nodejs,express,postgres,mongodb,prisma" />
